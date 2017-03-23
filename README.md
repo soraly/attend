@@ -1,7 +1,7 @@
 
 # attend
 
-> a vue2.0 project, use webpack to pack
+> a vue2.0 small project, use webpack to pack
 
 ## Build Setup
     
