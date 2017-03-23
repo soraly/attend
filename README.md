@@ -15,6 +15,6 @@
     npm run build
     
 
-For detailed explanation on how things work, consult the [docs for vue2.0](http://cn.vuejs.org/v2/guide/).
+For detailed explanations on how things work, consult the [docs for vue2.0](http://cn.vuejs.org/v2/guide/).
 
 
